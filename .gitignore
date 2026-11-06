@@ -1,0 +1,44 @@
+# Retired WIP material (old trailers, checklists, review renders)
+old wip/
+
+# Build products (build_release.bat recreates them)
+dist/
+build/
+*.spec
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local app state (written next to main.py / the exe)
+config.json
+user_presets.json
+*.corrupt-*.json
+*.log
+*.log.*
+
+# Tool and CLI output
+output/
+shots/
+showcase_gifs/
+
+# Trailer music and renders: YouTube Audio Library music may be used in videos, not redistributed
+*.mp3
+*.wav
+*.mp4
+
+# Gib samples of Commander Wars units: third-party sprites, so not under this repo's MIT license (still ships in the release zip)
+promo/Military Unit Samples/
+
+# Claude Code
+.claude/
+
+# Editors and OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store

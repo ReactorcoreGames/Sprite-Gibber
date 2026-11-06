@@ -1,0 +1,13 @@
+Hey User!
+
+Just a heads up that these are only the official presets that ship with the program that you see in this folder.
+
+You can tweak and fork any of these presets, customizing them to your needs.
+
+The presets will work with any frame count and any sprite size.
+
+You can also create entirely new presets from scratch too.
+
+I did my best as the developer to provide a rich library of presets of everything I could imagine would be useful and desired, so you can always easily pick one of the 479 presets with a single click to get what you need very quickly.
+
+- Reactorcore
